@@ -76,7 +76,7 @@ Links to presentations and assignments will be posted here
 
 ### Class 3 (9/25): Arduino
 
-### Class 4 (10/2): Arduino Wrap-Up
+### Class 4 (10/2): Arduino Wrap-Up + Show-and-Tell
 
 ### Class 5 (10/9): Processing
 
