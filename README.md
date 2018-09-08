@@ -11,8 +11,9 @@ Instructor: Stephanie Smith // scsmith@calarts.edu
 
 How can computation be reconsidered within the critical contexts of an art practice? Students will be introduced to the aesthetic possibilities of combining art making, computer programming and digital technology. The classes will explore the fundamentals of programming in a variety of IDEs combined with the investigation of physical media, installation and interactive design. The class assignments will lead to a focus on the expressive capabilities of the human body in a sensor-based environment. The core concepts will involve a dialogue between physical action and digital information. A final group project will implement the body, sensors, and microcontrollers using computer programs written in class.
 
-GitHub Organization: https://github.com/comprecon18 :eyes:
+**GitHub: https://github.com/comprecon18 :eyes:**
 
+----
 
 ## Main Topics
 
@@ -31,11 +32,13 @@ GitHub Organization: https://github.com/comprecon18 :eyes:
 - Audio I/O and manipulation / Data routing / "Show Control"
 - https://puredata.info/  
 
-#### Version Control (complementary skill, optional)
+#### (optional) Version Control (complementary skill)
 
 - Code history / Code sharing / Code collaboration
 - Git: https://git-scm.com/  
 - GitHub: http://github.com  
+
+----
 
 ## Schedule
 
@@ -44,26 +47,37 @@ GitHub Organization: https://github.com/comprecon18 :eyes:
 | 01 | 09/11 | **Arduino**          		                |         |
 | 02 | 09/18 | **Arduino**                              |  |
 | 03 | 09/25 | **Arduino**                              | Sensors |
-| 04 | 10/02 | **Arduino**                              | Sensors, Servos |
+| 04 | 10/02 | **Arduino**                            | **Mini-Project Due**, Sensors, Servos |
 | 05 | 10/09 | **Processing**                           |  |
 | 06 | 10/16 | **Processing** + Arduino                 |  |
-| 07 | 10/23 | **Processing** + Arduino                 |  |
+| 07 | 10/23 | **Processing** + Arduino               | **Mini-Project Due** |
 | 08 | 10/30 | **PureData**                    | Misc. controllers |
 | 09 | 11/06 | **PureData** + Arduino          |  |
-| 10 | 11/13 | **PureData** + Arduino       | Final Project |
+| 10 | 11/13 | **PureData** + Arduino     | **Mini-Project Due** , Discuss Final Project |
 | 11 | 11/20 | **Final Project** Proposals, Form Groups |  |
 | 12 | 11/27 | **Final Project** Development            |  |
 | 13 | 12/04 | **Final Project** Development            |  |
 | 14 | 12/11 | Gallery Open                             |  |
 
-  *Secondary topics may shift throughout the semester
-  *Soldering covered in lab outside of class
+  * Secondary topics may shift throughout the semester
+  * Soldering covered in optional lab outside of class
+
+----
+
+## Mini-Projects
+
+There will be a "mini-project" at the end of each unit (a total of three). They are due on the last day of the unit. They consist of continuing development of whatever you've built in class during that unit and then showing it to the class.
+
+## Final Project
+
+A final project will be due at the end of the semester. You will be creating an installation, which will be installed in C108 on the last day of class.
 
 ## Grading
 
-| Attendance and Participation | 70% |
+| Attendance, Participation | **33%** |
 | -- | -- |
-| **Final Project** | **30%** |
+| **Mini-Projects (3)** | **33%** |
+| **Final Project** | **34%** |
 
 ----
 
@@ -105,7 +119,7 @@ I'd encourage you to share your code so your classmastes can take a closer look.
 
 ----
 
-## Materials Resources
+## Material Resources
 - [sparkfun.com](http://sparkfun.com) - online store  
 - [adafruit.com](http://adafruit.com) - online store  
 - [aliexpress.com](http://aliexpress.com) - cheaper online store but slow shipping  
