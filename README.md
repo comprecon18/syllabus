@@ -8,6 +8,7 @@ Fall 2018 // Integrated Media, Art and Technology // California Institute of the
 
 Tuesdays, 7 - 8:50pm // C108  
 Instructor: Stephanie Smith // scsmith@calarts.edu  
+TA: Taehee Kim
 
 How can computation be reconsidered within the critical contexts of an art practice? Students will be introduced to the aesthetic possibilities of combining art making, computer programming and digital technology. The classes will explore the fundamentals of programming in a variety of IDEs combined with the investigation of physical media, installation and interactive design. The class assignments will lead to a focus on the expressive capabilities of the human body in a sensor-based environment. The core concepts will involve a dialogue between physical action and digital information. A final group project will implement the body, sensors, and microcontrollers using computer programs written in class.
 
@@ -66,7 +67,7 @@ How can computation be reconsidered within the critical contexts of an art pract
 
 ## Mini-Projects
 
-There will be a "mini-project" at the end of each unit (a total of three). They are due on the last day of the unit. They consist of continuing development of whatever you've built in class during that unit and then showing it to the class.
+There will be a "mini-project" at the end of each unit (a total of three). They are due on the last day of the unit. They consist of continuing development of whatever you've built in class during that unit and then showing it to the class ("show-and-tell").
 
 ## Final Project
 
@@ -100,7 +101,7 @@ Links to presentations and assignments will be posted here
 
 ### Class 8 (10/30): PureData
 
-### Class 9 (11/6): PureData + Arduino
+### Class 9 (11/6): PureData + Arduino Show-and-Tell
 
 ### Class 10 (11/13): PureData + Arduino Show-and-Tell / Final Project Prep
 
