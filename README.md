@@ -8,7 +8,7 @@ Fall 2018 // Integrated Media, Art and Technology // California Institute of the
 
 Tuesdays, 7 - 8:50pm // C108  
 Instructor: Stephanie Smith // scsmith@calarts.edu  
-TA: Taehee Kim // taeheekim@alum.calarts.edu
+TA: Taehee Kim // taeheekim@alum.calarts.edu // Office Hours TBD
 
 How can computation be reconsidered within the critical contexts of an art practice? Students will be introduced to the aesthetic possibilities of combining art making, computer programming and digital technology. The classes will explore the fundamentals of programming in a variety of IDEs combined with the investigation of physical media, installation and interactive design. The class assignments will lead to a focus on the expressive capabilities of the human body in a sensor-based environment. The core concepts will involve a dialogue between physical action and digital information. A final group project will implement the body, sensors, and microcontrollers using computer programs written in class.
 
@@ -49,7 +49,7 @@ How can computation be reconsidered within the critical contexts of an art pract
 | 02 | 09/18 | **Arduino**                              |  |
 | 03 | 09/25 | **Arduino**                              | Sensors |
 | 04 | 10/02 | **Arduino**                            | **Mini-Project Due**, Sensors, Servos |
-| 05 | 10/09 | **Processing**                           |  |
+| 05 | 10/09 | **Processing**                           | Guest Lecturer: Kerstin Hovland ([ecminteractive.com](http://ecminteractive.com)) |
 | 06 | 10/16 | **Processing** + Arduino                 |  |
 | 07 | 10/23 | **Processing** + Arduino               | **Mini-Project Due** |
 | 08 | 10/30 | **PureData**                    | Misc. controllers |
