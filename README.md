@@ -86,6 +86,7 @@ A final project will be due at the end of the semester. You will be creating an 
 Links to presentations and assignments will be posted here
 
 ### Class 1 (9/11): Arduino
+Lecture Slides: [Course Intro / Arduino](https://docs.google.com/presentation/d/1ZBp3kiirazpMTfr-536Ml0Tax-VIAGf0cD2OBlOoSLw/edit?usp=sharing)
 
 ### Class 2 (9/18): Arduino
 
