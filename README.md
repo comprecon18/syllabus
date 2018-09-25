@@ -49,12 +49,12 @@ How can computation be reconsidered within the critical contexts of an art pract
 | 02 | 09/18 | **Arduino**                              |  |
 | 03 | 09/25 | **Arduino**                              | Sensors |
 | 04 | 10/02 | **Arduino**                            | **Mini-Project Due**, Sensors, Servos |
-| 05 | 10/09 | **Processing**                           | Guest Lecturer: Kerstin Hovland ([ecminteractive.com](http://ecminteractive.com)) |
+| 05 | 10/09 | **Processing**                           |  |
 | 06 | 10/16 | **Processing** + Arduino                 |  |
-| 07 | 10/23 | **Processing** + Arduino               | **Mini-Project Due** |
+| 07 | 10/23 | **Processing** + Arduino               | **Mini-Project Due**, Visiting Artist: [Kerstin Hovland](http://ecminteractive.com) |
 | 08 | 10/30 | **PureData**                    | Misc. controllers |
 | 09 | 11/06 | **PureData** + Arduino          |  |
-| 10 | 11/13 | **PureData** + Arduino     | **Mini-Project Due** , Discuss Final Project |
+| 10 | 11/13 | **PureData** + Arduino     | **Mini-Project Due**, Discuss Final Project |
 | 11 | 11/20 | **Final Project** Proposals, Form Groups |  |
 | 12 | 11/27 | **Final Project** Development            |  |
 | 13 | 12/04 | **Final Project** Development            |  |
@@ -97,6 +97,10 @@ Links to presentations and assignments will be posted here
 * [Sensors on Adafruit](https://www.adafruit.com/category/35)
 
 ### Class 3 (9/25): Arduino
+* Lecture Slides: [Arduino Part 2](https://docs.google.com/presentation/d/15dRNI2-cNmRs3fnenOtdjsFizksT9WIKAjIdS3zoaps/edit?usp=sharing)
+* [Arduino reference](https://www.arduino.cc/reference/en)
+* [Accelerometer ADXL335](https://www.sparkfun.com/products/9269)
+* [Proximity Sensor Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
 
 ### Class 4 (10/2): Arduino Wrap-Up + Show-and-Tell
 
