@@ -101,6 +101,7 @@ Links to presentations and assignments will be posted here
 * [Arduino reference](https://www.arduino.cc/reference/en)
 * [Accelerometer ADXL335](https://www.sparkfun.com/products/9269)
 * [Proximity Sensor Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
+* [Schematic for working with sensor/knob input (slide 24)](https://docs.google.com/presentation/d/1ZBp3kiirazpMTfr-536Ml0Tax-VIAGf0cD2OBlOoSLw/edit#slide=id.g253af1f838_0_672)
 
 ### Class 4 (10/2): Arduino Wrap-Up + Show-and-Tell
 
