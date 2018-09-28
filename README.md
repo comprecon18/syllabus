@@ -102,6 +102,8 @@ Links to presentations and assignments will be posted here
 * [Accelerometer ADXL335](https://www.sparkfun.com/products/9269)
 * [Proximity Sensor Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
 * [Schematic for working with sensor/knob input (slide 24)](https://docs.google.com/presentation/d/1ZBp3kiirazpMTfr-536Ml0Tax-VIAGf0cD2OBlOoSLw/edit#slide=id.g253af1f838_0_672)
+* **Assignment**: Mini-project: Make a "mini-installation" with your sensor. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it (more than just using your hand to test the sensor). Working in groups for this assignment (and all assignments) is fine. If you don't have a sensor, pair up with someone that does, or use your knob/potentiometer for now.
+
 
 ### Class 4 (10/2): Arduino Wrap-Up + Show-and-Tell
 
