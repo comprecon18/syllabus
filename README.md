@@ -97,7 +97,7 @@ Links to presentations and assignments will be posted here
 * [Sensors on Adafruit](https://www.adafruit.com/category/35)
 
 ### Class 3 (9/25): Arduino
-* Lecture Slides: [Arduino Part 2](https://docs.google.com/presentation/d/15dRNI2-cNmRs3fnenOtdjsFizksT9WIKAjIdS3zoaps/edit?usp=sharing)
+* Lecture Slides: [Arduino Part 2](https://docs.google.com/presentation/d/15dRNI2-cNmRs3fnenOtdjsFizksT9WIKAjIdS3zoaps/edit?usp=sharing) (stopped at slide 16)
 * [Arduino reference](https://www.arduino.cc/reference/en)
 * [Accelerometer ADXL335](https://www.sparkfun.com/products/9269)
 * [Proximity Sensor Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
