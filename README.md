@@ -97,15 +97,16 @@ Links to presentations and assignments will be posted here
 * [Sensors on Adafruit](https://www.adafruit.com/category/35)
 
 ### Class 3 (9/25): Arduino
-* Lecture Slides: [Arduino Part 2](https://docs.google.com/presentation/d/15dRNI2-cNmRs3fnenOtdjsFizksT9WIKAjIdS3zoaps/edit?usp=sharing) (stopped at slide 16)
+* Lecture Slides: [Arduino Part 2](https://docs.google.com/presentation/d/15dRNI2-cNmRs3fnenOtdjsFizksT9WIKAjIdS3zoaps/edit?usp=sharing) (stopped at slide 14)
 * [Arduino reference](https://www.arduino.cc/reference/en)
 * [Accelerometer ADXL335](https://www.sparkfun.com/products/9269)
 * [Proximity Sensor Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
 * [Schematic for working with sensor/knob input (slide 24)](https://docs.google.com/presentation/d/1ZBp3kiirazpMTfr-536Ml0Tax-VIAGf0cD2OBlOoSLw/edit#slide=id.g253af1f838_0_672)
 * **Assignment**: Mini-project: Make a "mini-installation" with your sensor. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it (more than just using your hand to test the sensor). Working in groups for this assignment (and all assignments) is fine. If you don't have a sensor, pair up with someone that does, or use your knob/potentiometer for now.
 
-
 ### Class 4 (10/2): Arduino Wrap-Up + Show-and-Tell
+* Lecture Slides: Finished [Arduino Part 2](https://docs.google.com/presentation/d/15dRNI2-cNmRs3fnenOtdjsFizksT9WIKAjIdS3zoaps/edit?usp=sharing) (started at slide 14)
+* **Assignment**: Prepare for Processing. 1) Do the ['Hello Processing' video tutorial](http://hello.processing.org/) (save your code) and then 2) download and install [Processing](https://processing.org/download/)
 
 ### Class 5 (10/9): Processing
 
