@@ -109,6 +109,9 @@ Links to presentations and assignments will be posted here
 * **Assignment**: Prepare for Processing. 1) Do the ['Hello Processing' video tutorial](http://hello.processing.org/) (save your code) and then 2) download and install [Processing](https://processing.org/download/)
 
 ### Class 5 (10/9): Processing
+* Lecture Slides: [Unit 2: Processsing](https://docs.google.com/presentation/d/1ApX2NZf5iGxlZiSYHaU5O7kjycQNIG2AQ2F9YMPYE8A/edit?usp=sharing)
+* [Processing Repository](https://github.com/comprecon18/processing) 
+* [Processing Reference](https://processing.org/reference/)
 
 ### Class 6 (10/16): Processing + Arduino
 
