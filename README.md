@@ -114,6 +114,11 @@ Links to presentations and assignments will be posted here
 * [Processing Reference](https://processing.org/reference/)
 
 ### Class 6 (10/16): Processing + Arduino
+* Lecture Slides: [Unit 2 Part 2: Processing+Arduino](https://docs.google.com/presentation/d/1UPvt_h7LjL9FHqU7X6P7jLMb67Fw_UNGMwNCTCn6TPc/edit?usp=sharing) 
+* [Processing Repository](https://github.com/comprecon18/processing) 
+* [Processing Reference](https://processing.org/reference/)
+* [Arduino Processing Library Reference](https://playground.arduino.cc/Interfacing/Processing)
+* **Assignment**: Mini-project: Make a mini video installation with your sensor. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it (more than just using your hand to test the sensor). Working in groups for this assignment (and all assignments) is fine. If you don't have a sensor, pair up with someone that does, or use your knob/potentiometer for now.
 
 ### Class 7 (10/23): Processing + Arduino Show-and-Tell
 
