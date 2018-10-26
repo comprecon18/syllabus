@@ -121,8 +121,12 @@ Links to presentations and assignments will be posted here
 * **Assignment**: Mini-project: Make a mini video installation with your sensor. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it (more than just using your hand to test the sensor). Working in groups for this assignment (and all assignments) is fine. If you don't have a sensor, pair up with someone that does, or use your knob/potentiometer for now.
 
 ### Class 7 (10/23): Processing + Arduino Show-and-Tell
+* Lecture Slides: [Finished Unit 2 Part 2: Processing+Arduino](https://docs.google.com/presentation/d/1UPvt_h7LjL9FHqU7X6P7jLMb67Fw_UNGMwNCTCn6TPc/edit?usp=sharing) 
+* **Assignment**: Download PureData-extended (**not** vanilla!). Download link: https://puredata.info/downloads/pd-extended 
 
 ### Class 8 (10/30): PureData
+* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1H_NWMJManoGPuk1oNb2qErmkzGLEjg5hqQ88bnnOfF4/edit?usp=sharing)
+* Pd Documentation (the real reference is built into the software): https://puredata.info/docs
 
 ### Class 9 (11/6): PureData + Arduino Show-and-Tell
 
