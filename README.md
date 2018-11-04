@@ -125,8 +125,9 @@ Links to presentations and assignments will be posted here
 * **Assignment**: Download PureData-extended (**not** vanilla!). Download link: https://puredata.info/downloads/pd-extended 
 
 ### Class 8 (10/30): PureData
-* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1H_NWMJManoGPuk1oNb2qErmkzGLEjg5hqQ88bnnOfF4/edit?usp=sharing)
+* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1H_NWMJManoGPuk1oNb2qErmkzGLEjg5hqQ88bnnOfF4/edit?usp=sharing)(stopped at slide 6)
 * Pd Documentation (the real reference is built into the software): https://puredata.info/docs
+* **Homework:** Catch up to slide 6 in the lecture slides. Be ready with 01.hello_world.pd
 
 ### Class 9 (11/6): PureData + Arduino Show-and-Tell
 
