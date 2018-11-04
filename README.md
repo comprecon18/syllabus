@@ -125,12 +125,12 @@ Links to presentations and assignments will be posted here
 * **Assignment**: Download PureData-extended (**not** vanilla!). Download link: https://puredata.info/downloads/pd-extended 
 
 ### Class 8 (10/30): PureData
-* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1H_NWMJManoGPuk1oNb2qErmkzGLEjg5hqQ88bnnOfF4/edit?usp=sharing)(stopped at slide 6)
+* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1H_NWMJManoGPuk1oNb2qErmkzGLEjg5hqQ88bnnOfF4/edit?usp=sharing) (stopped at slide 6)
 * Pd Documentation (the real reference is built into the software): https://puredata.info/docs
 * **Homework:** Catch up to slide 6 in the lecture slides. Be ready with 01.hello_world.pd
 
 ### Class 9 (11/6): PureData + Arduino
-* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1H_NWMJManoGPuk1oNb2qErmkzGLEjg5hqQ88bnnOfF4/edit?usp=sharing)(stopped at slide 6)
+* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1H_NWMJManoGPuk1oNb2qErmkzGLEjg5hqQ88bnnOfF4/edit?usp=sharing) (continuing from slide 6)
 * Pd Documentation (the real reference is built into the software): https://puredata.info/docs
 * **Assignment**: Mini-project: Make a mini installation using a sensor and Pure Data. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it (more than just using your hand to test the sensor). Working in groups for this assignment (and all assignments) is fine.
 
