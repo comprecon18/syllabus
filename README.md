@@ -56,7 +56,7 @@ How can computation be reconsidered within the critical contexts of an art pract
 | 09 | 11/06 | **PureData** + Arduino          |  |
 | 10 | 11/13 | **PureData** + Arduino     | **Mini-Project Due**, Discuss Final Project |
 | 11 | 11/20 | **Final Project** Proposals, Form Groups |  |
-| 12 | 11/27 | **Final Project** Development            |  |
+| 12 | 11/27 | **Final Project** Development            | Soldering Workshop |
 | 13 | 12/04 | **Final Project** Development            |  |
 | 14 | 12/11 | Gallery Open                             |  |
 
@@ -135,6 +135,8 @@ Links to presentations and assignments will be posted here
 * **Assignment**: Mini-project: Make a mini installation using a sensor and Pure Data. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it (more than just using your hand to test the sensor). Working in groups for this assignment (and all assignments) is fine.
 
 ### Class 10 (11/13): PureData + Arduino Show-and-Tell / Final Project Prep
+* Lecture Slides: [Final Project Assignment](https://docs.google.com/presentation/d/14KbcWUi6SmFfNgMOcO98tiVJTECIngaPcVx-4uzaj98/edit?usp=sharing)
+* [Sensor sign-up sheet](https://docs.google.com/spreadsheets/d/1lmbB6ZJNVLlhiIvCwvspNv9We294-Y8s84COpzBiWwc/edit?usp=sharing)
 
 
 ----
