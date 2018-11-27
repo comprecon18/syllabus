@@ -138,6 +138,17 @@ Links to presentations and assignments will be posted here
 * Assignment: [Final Project Proposal](https://docs.google.com/presentation/d/14KbcWUi6SmFfNgMOcO98tiVJTECIngaPcVx-4uzaj98/edit?usp=sharing)
 * [Sensor sign-up sheet](https://docs.google.com/spreadsheets/d/1lmbB6ZJNVLlhiIvCwvspNv9We294-Y8s84COpzBiWwc/edit?usp=sharing)
 
+### Classes 11-13 (11/20 - 12/4): Final Project Prep
+* [Desk crit sign-up sheet](https://docs.google.com/spreadsheets/d/1ZP9p_JU4tP-PaAVWYhw4FoFa141r7e0kZM2Tvv8RCzE/edit?usp=sharing) - You must sign up for a desk crit
+* [C108 Room Layout](https://docs.google.com/drawings/d/1sxys-W8Px6fEYXc9eIYgcwAYjQeC8_ahG0FhhbwpY_U/edit?usp=sharing)  - Add your project to the diagram
+* [Sensor sign-up sheet](https://docs.google.com/spreadsheets/d/1lmbB6ZJNVLlhiIvCwvspNv9We294-Y8s84COpzBiWwc/edit?usp=sharing)
+* [General Soldering Guide](https://docs.google.com/presentation/d/1C1Tj6xJIM9AVTdIUTKr6NFy0C_2O6ExX-8nPoXICG3I/edit?usp=sharing)
+
+### Final Class (12/11): Gallery Day
+* Install will take place all day, but primarily between 5-7 (BEFORE class)
+* Gallery will be "open" during our class time, where we will crit all projects. Friends are welcome to attend!
+
+
 
 ----
 
